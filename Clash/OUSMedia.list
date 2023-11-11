@@ -42,9 +42,11 @@ DOMAIN-SUFFIX,hulustream.com
 # 内容：MAX
 # 数量：9条
 USER-AGENT,HBO%20NOW*
+DOMAIN-KEYWORD,max.com
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,hbomaxcdn.com
 
 # NAME: Peacock
 # AUTHOR: blackmatrix7
