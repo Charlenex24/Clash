@@ -47,12 +47,13 @@ DOMAIN-SUFFIX,hulustream.com
 # PROCESS-NAME: 1
 # TOTAL: 7
 DOMAIN-SUFFIX,cinemax.com
+DOMAIN-KEYWORD,max.com,
+DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,maxgo.com
-DOMAIN-KEYWORD,.max.com,
 PROCESS-NAME,com.hbo.hbono
 
 # NAME: Peacock
