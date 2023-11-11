@@ -54,7 +54,19 @@ DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,maxgo.com
-PROCESS-NAME,com.hbo.hbono
+DOMAIN-SUFFIX,busy.prd.api.discomax.com
+DOMAIN-SUFFIX,default.prd.api.discomax.com
+DOMAIN-SUFFIX,events.prd.api.discomax.com
+DOMAIN-SUFFIX,images.cdn.prd.api.discomax.com
+DOMAIN-SUFFIX,prd.api.discomax.com
+DOMAIN-SUFFIX,telegraph.prd.api.discomax.com
+DOMAIN-SUFFIX,auth.max.com
+DOMAIN-SUFFIX,default.prd.api.max.com
+DOMAIN-SUFFIX,default.use.prd.api.max.com
+DOMAIN-SUFFIX,events.prd.api.max.com
+DOMAIN-SUFFIX,play.max.com
+DOMAIN-SUFFIX,telegraph.prd.api.max.com
+
 
 # NAME: Peacock
 # AUTHOR: blackmatrix7
