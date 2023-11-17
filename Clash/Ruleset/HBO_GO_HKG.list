@@ -16,3 +16,11 @@ DOMAIN,players.brightcove.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+
+## > HamiVideo
+DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,scc.ott.hinet.net
+DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
