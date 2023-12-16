@@ -13,3 +13,12 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
 
 #epic游戏下载
+
+DOMAIN-SUFFIX,xvcf1.xboxlive.com
+DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
+DOMAIN-SUFFIX,assets1.xboxlive.cn
+DOMAIN-SUFFIX,assets2.xboxlive.cn
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
